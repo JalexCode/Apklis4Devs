@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    android:checkableBehavior="single" -->
+<item
+    android:id="@+id/donate"
+    android:icon="@drawable/ic_money"
+    android:title="Donar al proyecto"/>
+<item android:title="Herramientas">
+    <menu>
+        <item
+            android:id="@+id/sales"
+            android:icon="@drawable/ic_credit_card"
+            android:title="Ventas"/>
+        <item
+            android:id="@+id/apklis_database"
+            android:icon="@drawable/ic_search"
+            android:title="Apklis Database"/>
+    </menu>
+</item>
+<item android:title="Feedback">
+    <menu>
+        <item
+            android:id="@+id/errors_register"
+            android:icon="@drawable/ic_bug_report"
+            android:title="Registro de errores"/>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="Reportar..."/>
+    </menu>
+</item>
+<item android:title="Redes sociales">
+    <menu>
+        <item
+            android:id="@+id/telegram_channel"
+            android:icon="@drawable/ic_verified"
+            android:title="Canal de Telegram"/>
+    </menu>
+</item>
+    <item android:title="Preferencias">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Preferencias"/>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info"
+                android:title="Acerca de"/>
+        </menu>
+    </item>
+</menu>

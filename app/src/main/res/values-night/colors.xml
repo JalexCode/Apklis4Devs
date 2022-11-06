@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#4CFF87</color>
+    <color name="red">#FF6262</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#424242</color>
+    <color name="buttons">#FFFFFF</color>
+    <color name="dayNightColor">#FFEB3B</color>
+    <color name="cardColor">#FFEB3B</color>
+    <color name="appCardColor">#878787</color>
+    <color name="bottomLayoutColor">#5E5E5E</color>
+    <color name="backgroundDark">#353535</color>
+    <color name="transparent">#00000000</color>
+    <color name="semiTransparent">#33000000</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="alt">#FFFFFF</color>
+</resources>

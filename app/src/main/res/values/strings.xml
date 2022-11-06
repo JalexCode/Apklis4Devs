@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_short_name">Apklis4Devs</string>
+    <string name="app_name">Apklis4Devs Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="loading">Cargando…</string>
+    <string name="send_feedback">Enviar Feedback</string>
+    <string name="feedback_email" translatable="false">javierglez9910@gmail.com</string>
+    <string name="feedback_subject">Feedback sobre la aplicación Apklis4Devs</string>
+
+    <string-array name="provinces">
+        <item>Isla de la Juventud</item>
+        <item>Pinar del Río</item>
+        <item>Mayabeque</item>
+        <item>La Habana</item>
+        <item>Artemisa</item>
+        <item>Matanzas</item>
+        <item>Villa Clara</item>
+        <item>Cienfuegos</item>
+        <item>Sancti Spíritus</item>
+        <item>Ciego De Ávila</item>
+        <item>Camagüey</item>
+        <item>Las Tunas</item>
+        <item>Granma</item>
+        <item>Holguín</item>
+        <item>Santiago de Cuba</item>
+        <item>Guantánamo</item>
+    </string-array>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
